@@ -87,3 +87,7 @@ body {
 .difference p {
   font-size: 1.2rem;
 }
+ls -la
+git add style.css
+git add img
+git status
